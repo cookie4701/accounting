@@ -1,0 +1,33 @@
+[
+  {
+    "amount" : "-12.45",
+    "date" : "2019-01-17",
+    "account" : "Girokonto 1",
+    "type" : "external",
+    "distribution" : [
+      {
+          "description" : "Mobilgerät - Vertrag 1",
+          "amount" : "-5.0",
+          "code" : "A3.7"
+      },
+      {
+        "description" : "Versicherung Mobilgerät",
+        "amount" : "-7.45",
+        "code" : "A3.6"
+      }
+    ]
+  },
+  {
+    "amount" : "-400",
+    "date" : "2019-01-19",
+    "account" : "Girokonto 1",
+    "type" : "external",
+    "distribution" : [
+      {
+          "description" : "Miete Januar",
+          "amount" : "-400.0",
+          "code" : "A3.1"
+      }
+    ]
+  }
+]

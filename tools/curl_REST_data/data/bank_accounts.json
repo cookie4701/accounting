@@ -1,0 +1,20 @@
+[
+  {
+    "label" : "Girokonto 1",
+    "code" : "giro1",
+    "dateLastReset" : "2019-01-01",
+    "amountLastReset" : "123456.78"
+  },
+  {
+    "label" : "Sparkonto 1",
+    "code" : "spar1",
+    "dateLastReset" : "2019-01-01",
+    "amountLastReset" : "7777.77"
+  },
+  {
+    "label" : "Barkasse",
+    "code" : "barkasse",
+    "dateLastReset" : "2019-01-01",
+    "amountLastReset" : "123.45"
+  }
+]
