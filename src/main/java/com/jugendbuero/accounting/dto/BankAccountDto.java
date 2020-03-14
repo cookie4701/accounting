@@ -2,7 +2,7 @@ package com.jugendbuero.accounting.dto;
 
 import java.util.Date;
 
-public class BankAccountDto {
+public class BankAccountDto extends ResponseSuccessDto {
 
 	private String label;	
 	private String code;	

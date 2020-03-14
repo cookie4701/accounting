@@ -1,6 +1,6 @@
 package com.jugendbuero.accounting.dto;
 
-public class AccountingPlanDto {
+public class AccountingPlanDto extends ResponseSuccessDto {
 
 	private Long id;
 	private String code;
